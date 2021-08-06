@@ -14,8 +14,8 @@
         <p>Bu tarayıcı müzik eklentisini desteklememektedir.</p>
     </audio>
 
-<p id="deneme">Doğum günün kutlu olsun (şarkı var ama çalmaya bilir çalmaz ise site ile ilgili bi sorun olmuştur kusura bakma) </p>
-<h4>nisa sana bi süpriz yapıcam demiştim beceremedim ve o günden beri bunu hazırlıyorum umarım begenirsin</h4>
+<p id="deneme">Doğum günün kutlu olsun :) </p>
+<h4>nisa sana bi süpriz yapıcam demiştim ve beceremedim o günden beri bunu hazırlıyorum umarım begenirsin</h4>
 <img id="resim">
 
 <button onclick='document.getElementById("resim").src="a.png"'>buton</button>
