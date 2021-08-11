@@ -14,7 +14,7 @@
         <p>Bu tarayıcı müzik eklentisini desteklememektedir.</p>
     </audio>
 
-<p id="deneme">Doğum günün kutlu olsun (belki bi çikolatalı kek alıp gelemedim ama bunu yaptım) </p>
+<p id="deneme">Doğum günün kutlu olsun (nisa bu parantez içini okuyosan büyük ihtimal ile ben digerleri ile gelemedim  özürdilerim) </p>
 <h4>nisa sana bi süpriz yapıcam demiştim ve beceremedim o günden beri bunu hazırlıyorum umarım begenirsin</h4>
 <img id="resim">
 
