@@ -13,7 +13,7 @@
     <p>Bu tarayıcı müzik eklentisini desteklememektedir.</p>
 </audio>
 <h4>nisa sana bi süpriz yapıcam demiştim beceremedim ve o günden beri bunu hazırlıyorum umarım begenirsin</h4>
-<p id="deneme">Doğum günün kutlu olsun (butona basarsan doğum günü kız'ı çıkıcak)</p>
+<p id="deneme">Doğum günün kutlu olsun (işe başlamasaydım bizimkiler ile gelicektim ama kusura bakma gelemedim)</p>
 
 
 <!--<button type="button" onclick='document.getElementById("deneme").innerHTML="merhaba dünya"'>button</button>
