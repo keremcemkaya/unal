@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>nisa</title>
+    <title>deneme</title>
 </head>
 <body>
 
@@ -14,11 +14,8 @@
         <p>Bu tarayıcı müzik eklentisini desteklememektedir.</p>
     </audio>
 
-<p id="deneme">Doğum günün kutlu olsun nice mutlu yaşlara nisa (iş'e başladım bu yüzden bizimkilerle gelemedim özür dilerim ) </p>
-<h4>nisa sana bi süpriz yapıcam demiştim ve beceremedim o günden beri bunu hazırlıyorum umarım begenirsin</h4>
-<img id="resim">
 
-<button onclick='document.getElementById("resim").src="a.png"'>buton</button>
+
 </body>
 
 </html>
