@@ -8,9 +8,10 @@
 </head>
 <body>
 
-    <audio controls autoplay>
-        <source src="kn.mp3.mp3" type="audio/mpeg">
+<audio controls autoplay>
+        <source src="C:\Users\Casper\Desktop\Masaüstü\ss\kn.mp3" type="audio/mpeg">
         <p>Bu tarayıcı müzik eklentisini desteklememektedir.</p>
     </audio>
+
 </body>
 </html>
