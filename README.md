@@ -13,7 +13,7 @@
     <p>Bu tarayıcı müzik eklentisini desteklememektedir.</p>
 </audio>
 <p id="deneme">Doğum günün kutlu olsun prenses </p>
-<h4>nisa sana bi süpriz yapıcam demiştim beceremedim ve o günden beri bunu hazırlıyorum umarım begenirsin</h4>
+<h4>sana layık degil ama beğenirsin umarım</h4>
 <img id="resim" >
 
 <button onclick='document.getElementById("resim").src="a.png"'>BUTON</button>
