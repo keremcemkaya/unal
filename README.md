@@ -13,7 +13,7 @@
     <p>Bu tarayıcı müzik eklentisini desteklememektedir.</p>
 </audio>
 <p id="deneme">Doğum günün kutlu olsun prenses </p>
-<h4>seninle konuşabilecek kadar heybetli degildi belki kelimelerim ama ruhunu yerinden salayacak kadar derindi hisettiklerim </h4>
+<h4>seninle konuşabilecek kadar heybetli degildi belki kelimelerim ama ruhunu yerinden salayacak kadar derindi hisettiklerim</h4>
    
 <img id="resim" >
 
