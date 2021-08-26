@@ -14,6 +14,7 @@
 </audio>
 <p id="deneme">Doğum günün kutlu olsun prenses </p>
 <h4>seninle konuşabilecek kadar heybetli degildi belki kelimelerim ama ruhunu yerinden salayacak kadar derindi hisettiklerim 
+
 nazım hikmet</h4>
 <img id="resim" >
 
