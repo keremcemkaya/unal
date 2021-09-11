@@ -7,17 +7,11 @@
     <title>nisa</title>
 </head>
 <body>
-
-<audio controls autoplay>
-    <source src="n.mp3.mp3" type="audio/mpeg">
-    <p>Bu tarayıcı müzik eklentisini desteklememektedir.</p>
+    
+<h4>Nisa bana bi şans daha verebilir misin ?</h4>
+    <audio autoplay controls>
+    <source src="aaa.mp3.mp3" type="audio/mpeg">
+    tarayıcı bu ses dosyasını açamıyor.
 </audio>
-<p id="deneme">Doğum günün kutlu olsun prenses </p>
-<h4>seninle konuşabilecek kadar heybetli degildi belki kelimelerim ama ruhunu yerinden salayacak kadar derindi hisettiklerim</h4>
-   
-<img id="resim" >
-
-<button onclick='document.getElementById("resim").src="a.png"'>BUTON</button>
-
 </body>
 </html>
